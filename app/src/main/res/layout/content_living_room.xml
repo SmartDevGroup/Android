@@ -11,10 +11,8 @@
     tools:showIn="@layout/app_bar_living_room"
     android:background="#c7c3c3">
 
-    <ToggleButton
-        android:id="@+id/tgl"
+
+    <ListView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-
+        android:layout_height="match_parent" />
 </LinearLayout>

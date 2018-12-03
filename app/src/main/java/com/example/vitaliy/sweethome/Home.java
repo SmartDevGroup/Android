@@ -48,29 +48,6 @@ public class Home extends AppCompatActivity
         });
 
 
-
-        new CountDownTimer(30000, 1000) {
-            @Override
-            public void onTick(long millisUntilFinished) {
-                DateFormat df = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss");
-                String date = df.format(Calendar.getInstance().getTime());
-                time.setText(date);
-                Intent intent = getIntent();
-                String temp1 = intent.getStringExtra("temp1");
-
-                TextView tempbed = (TextView) findViewById(R.id.tempbed);
-                tempbed.setText("Tempreature in bedroom: " + temp1);
-            }
-
-            @Override
-            public void onFinish() {
-                start();
-            }
-
-        }.start();
-
-
-
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);

@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
@@ -29,8 +30,6 @@ public class Main extends AppCompatActivity implements View.OnClickListener {
     public String api_key;
     // Число для подсчета попыток залогиниться:
     int numberOfRemainingLoginAttempts = 3;
-//    String urls = "http://smartdevgroup.hopto.org/service/mobile.php?login=";
-//    String urlc = "http://192.168.0.98/service/mobile.php?login=";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,7 +89,7 @@ public class Main extends AppCompatActivity implements View.OnClickListener {
             }
             @Override
             public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
-
+                Toast.makeText(getApplicationContext(), "Not connection into server", Toast.LENGTH_SHORT).show();
             }
 
         });
