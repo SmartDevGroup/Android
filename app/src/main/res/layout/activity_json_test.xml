@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".JSON_test">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+    <Button
+        android:id="@+id/kitchen"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:text="Kitchen"
+        style="@style/Base.AlertDialog.AppCompat.Light"
+        />
+    <Button
+        android:id="@+id/livroom"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:text="Living room" />
+
+
+    </LinearLayout>
+
+<TextView
+    android:id="@+id/time"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:textSize="35dp"
+    android:textStyle="italic" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+        <Button
+            android:id="@+id/bathroom"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:text="Bathroom" />
+
+        <Button
+            android:id="@+id/bedroom"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:text="Bedroom" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/time1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="35dp"
+        android:textStyle="italic" />
+</LinearLayout>

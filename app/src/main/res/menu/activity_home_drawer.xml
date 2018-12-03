@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <group android:checkableBehavior="single">
+        <item android:title="Room">
+            <menu>
+
+                <item
+                    android:id="@+id/kitchen"
+                    android:icon="@drawable/ic_kitchen"
+                    android:title="Kitchen" />
+
+                <item
+                    android:id="@+id/bathroom"
+                    android:icon="@drawable/ic_bathroom"
+                    android:title="Bathroom" />
+
+                <item
+                    android:id="@+id/bedroom"
+                    android:icon="@drawable/ic_bedroom"
+                    android:title="Bedroom" />
+
+                 <item
+                    android:id="@+id/livroom"
+                    android:icon="@drawable/ic_livroom"
+                    android:title="Living room" />
+
+            </menu>
+        </item>
+    </group>
+
+    <item
+        android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Sign out" />
+        </menu>
+    </item>
+</menu>

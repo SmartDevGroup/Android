@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vitaliy.sweethome">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_icon_home"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Kitchen"
+            android:label="@string/title_activity_kitchen"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Bathroom"
+            android:label="@string/title_activity_bathroom"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Bedroom"
+            android:label="@string/title_activity_bedroom"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LivingRoom"
+            android:label="@string/title_activity_living_room"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".JSON_test" />
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".test"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

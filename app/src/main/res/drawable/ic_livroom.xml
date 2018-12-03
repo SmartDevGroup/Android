@@ -1,0 +1,14 @@
+<vector android:height="24dp" android:viewportHeight="459"
+    android:viewportWidth="459" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FF000000" android:pathData="m50,121c0,5.523 -4.477,10 -10,10s-10,-4.477 -10,-10 4.477,-10 10,-10 10,4.477 10,10zM50,121"/>
+    <path android:fillColor="#FF000000" android:pathData="m430,181c0,5.523 -4.477,10 -10,10s-10,-4.477 -10,-10 4.477,-10 10,-10 10,4.477 10,10zM430,181"/>
+    <path android:fillColor="#FF000000" android:pathData="m193.945,234h71.805l-5.809,-19h-60.184zM193.945,234"/>
+    <path android:fillColor="#FF000000" android:pathData="m50,181c0,5.523 -4.477,10 -10,10s-10,-4.477 -10,-10 4.477,-10 10,-10 10,4.477 10,10zM50,181"/>
+    <path android:fillColor="#FF000000" android:pathData="m430,121c0,5.523 -4.477,10 -10,10s-10,-4.477 -10,-10 4.477,-10 10,-10 10,4.477 10,10zM430,121"/>
+    <path android:fillColor="#FF000000" android:pathData="m448,68h-56v166h56zM420,207c-14.359,0 -26,-11.641 -26,-26s11.641,-26 26,-26 26,11.641 26,26c-0.016,14.352 -11.648,25.984 -26,26zM420,147c-14.359,0 -26,-11.641 -26,-26s11.641,-26 26,-26 26,11.641 26,26c-0.016,14.352 -11.648,25.984 -26,26zM420,147"/>
+    <path android:fillColor="#FF000000" android:pathData="m123,61h214v138h-214zM123,61"/>
+    <path android:fillColor="#FF000000" android:pathData="m68,68h-56v166h56zM40,207c-14.359,0 -26,-11.641 -26,-26s11.641,-26 26,-26 26,11.641 26,26c-0.016,14.352 -11.648,25.984 -26,26zM40,147c-14.359,0 -26,-11.641 -26,-26s11.641,-26 26,-26 26,11.641 26,26c-0.016,14.352 -11.648,25.984 -26,26zM40,147"/>
+    <path android:fillColor="#FF000000" android:pathData="m0,397h218v-97h-218zM144,333h39c4.418,0 8,3.582 8,8s-3.582,8 -8,8h-39c-4.418,0 -8,-3.582 -8,-8s3.582,-8 8,-8zM144,333"/>
+    <path android:fillColor="#FF000000" android:pathData="m0,250h459v34h-459zM0,250"/>
+    <path android:fillColor="#FF000000" android:pathData="m234,397h225v-97h-225zM274,333h39c4.418,0 8,3.582 8,8s-3.582,8 -8,8h-39c-4.418,0 -8,-3.582 -8,-8s3.582,-8 8,-8zM274,333"/>
+</vector>

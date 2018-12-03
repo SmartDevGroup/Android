@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SweetHome</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kitchen">Kitchen</string>
+    <string name="title_activity_bathroom">Bathroom</string>
+    <string name="title_activity_bedroom">Bedroom</string>
+    <string name="title_activity_living_room">LivingRoom</string>
+    <string name="title_activity_test">test</string>
+</resources>
