@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
@@ -7,14 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd7d7c96-d392-4362-80eb-e6551187bfa1" name="Default" comment="Rebuild project">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_bathroom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_bathroom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_bedroom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_bedroom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_kitchen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_kitchen.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_living_room.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_living_room.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qwe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qwe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,16 +37,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bathroom.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Bathroom.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+            <state relative-caret-position="326">
+              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
               <folding>
-                <element signature="e#1171#1347#0" expanded="true" />
-                <element signature="e#1346#1347#0" expanded="true" />
-                <element signature="e#1668#1699#0" expanded="true" />
-                <element signature="e#1701#1733#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2331,6 +2327,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_bedroom.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_kitchen.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_living_room.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Bedroom.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Main.java" />
       </list>
     </option>
   </component>
@@ -2515,7 +2513,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -2526,12 +2523,12 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Logcat" order="0" />
       <window_info id="Captures" order="7" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.2497332" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.329718" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
@@ -2577,13 +2574,6 @@
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Home.java">
@@ -2635,13 +2625,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Bathroom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="56">
           <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
           <folding>
             <element signature="e#1171#1347#0" expanded="true" />
             <element signature="e#1346#1347#0" expanded="true" />
             <element signature="e#1668#1699#0" expanded="true" />
             <element signature="e#1701#1733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Bedroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="122" column="110" selection-start-line="122" selection-start-column="110" selection-end-line="122" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1155">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vitaliy/sweethome/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

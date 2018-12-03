@@ -1,13 +1,12 @@
 package com.example.vitaliy.sweethome;
 
-import android.annotation.SuppressLint;
+
+
 import android.content.Intent;
-import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -15,8 +14,7 @@ import android.widget.Toast;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 
-import java.util.Arrays;
-import java.util.Objects;
+
 
 import cz.msebera.android.httpclient.Header;
 
@@ -25,11 +23,9 @@ public class Main extends AppCompatActivity implements View.OnClickListener {
     private EditText username;
     private EditText password;
     private TextView log;
-    private Button btn;
 
     public String api_key;
-    // Число для подсчета попыток залогиниться:
-    int numberOfRemainingLoginAttempts = 3;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,23 +61,19 @@ public class Main extends AppCompatActivity implements View.OnClickListener {
 
 
                     api_key = new String(responseBody);
-                    txt.setText(api_key);
 
                     if (api_key.equals("false_login")) {
-                        txt.setText("False login");
+                        Toast.makeText(getApplicationContext(), "Неправильный логин", Toast.LENGTH_SHORT).show();
                     }
 
                     if (api_key.equals("false_pass")){
-                        txt.setText("False password");
-                    }
-
-                    if (api_key.equals("false_login") && api_key.equals("false_pass")){
-                        txt.setText("Failed data");
+                        Toast.makeText(getApplicationContext(), "Неправильный пароль", Toast.LENGTH_SHORT).show();
                     }
 
                     if(!api_key.equals("false_login") && !api_key.equals("false_pass")){
                         Intent intent = new Intent(Main.this, JSON_test.class);
                         startActivity(intent);
+                        Toast.makeText(getApplicationContext(), "Вход выполнен", Toast.LENGTH_SHORT).show();
                     }
 
                     v.setEnabled(true);
@@ -93,10 +85,6 @@ public class Main extends AppCompatActivity implements View.OnClickListener {
             }
 
         });
-
-
-////        Intent intent = new Intent(this, Home.class);
-////        intent.putExtra("api_key", api_key);
 
     }
 
