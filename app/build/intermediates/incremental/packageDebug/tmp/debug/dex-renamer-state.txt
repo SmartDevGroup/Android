@@ -1,4 +1,4 @@
-#Mon Dec 03 11:17:58 EET 2018
+#Tue Dec 04 14:41:30 EET 2018
 base.0=/home/vitaliy/Загрузки/qwe/app/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 renamed.1=classes2.dex

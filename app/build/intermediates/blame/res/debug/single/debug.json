@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_content_test.xml.flat",
-        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/content_test.xml"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/animator_design_fab_show_motion_spec.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0220ca0fc2241b777335b7443ee6618b/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_content_test.xml.flat",
+        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/content_test.xml"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -36,12 +36,12 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4fa1c247eaeb5f27156d1dbeb4f3ca69/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -100,6 +100,10 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-v24_socket.png.flat",
+        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/drawable-v24/socket.png"
+    },
+    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color/abc_hint_foreground_material_dark.xml"
     },
@@ -128,12 +132,12 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_nav_header_living_room.xml.flat",
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/nav_header_living_room.xml"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -152,20 +156,20 @@
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/activity_test.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4fa1c247eaeb5f27156d1dbeb4f3ca69/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4fa1c247eaeb5f27156d1dbeb4f3ca69/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
@@ -196,12 +200,12 @@
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/drawable/ic_menu_send.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color-v23/abc_tint_edittext.xml"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0220ca0fc2241b777335b7443ee6618b/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-v21_abc_dialog_material_background.xml.flat",
@@ -216,12 +220,12 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/24f100f8e73074f4166dd824618828c2/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-v21_abc_list_divider_material.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
@@ -244,12 +248,12 @@
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/drawable/ic_bathroom.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -268,12 +272,12 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -288,12 +292,12 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
@@ -312,16 +316,16 @@
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/drawable/ic_home.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_app_bar_kitchen.xml.flat",
-        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/app_bar_kitchen.xml"
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable_mtrl_tabs_default_indicator.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0220ca0fc2241b777335b7443ee6618b/res/drawable/mtrl_tabs_default_indicator.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_app_bar_kitchen.xml.flat",
+        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/app_bar_kitchen.xml"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -336,20 +340,20 @@
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/content_bedroom.xml"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
-        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color/abc_primary_text_material_dark.xml"
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
@@ -1884,6 +1888,10 @@
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0220ca0fc2241b777335b7443ee6618b/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
     },
     {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_socket_list.xml.flat",
+        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/socket_list.xml"
+    },
+    {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
@@ -2026,6 +2034,10 @@
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
         "source": "/home/vitaliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b78b5bf69e003480ac7aecb497a89402/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/layout_layout.xml.flat",
+        "source": "/home/vitaliy/Загрузки/qwe/app/src/main/res/layout/layout.xml"
     },
     {
         "merged": "/home/vitaliy/Загрузки/qwe/app/build/intermediates/res/merged/debug/menu_activity_bedroom_drawer.xml.flat",

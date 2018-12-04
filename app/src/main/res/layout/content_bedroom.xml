@@ -10,9 +10,6 @@
     android:id="@+id/LinearLayout1"
     tools:showIn="@layout/app_bar_bedroom">
 
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
 
     <ToggleButton
         android:id="@+id/tgl"

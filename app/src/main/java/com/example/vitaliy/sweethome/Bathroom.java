@@ -4,6 +4,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
@@ -16,6 +18,11 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import java.util.ArrayList;
+
+import androidx.work.OneTimeWorkRequest;
+import androidx.work.WorkManager;
+
 public class Bathroom extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -25,6 +32,25 @@ public class Bathroom extends AppCompatActivity
         setContentView(R.layout.activity_bathroom);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        ArrayList<Socket> list = new ArrayList<>();
+        int count  = 10;
+        for (int i =0;i<= count;i++){
+            if (i<count/2){
+                list.add(new Socket("Enable",""+i,"Socket"));
+            } else{
+                list.add(new Socket("Disable",""+i,"Socket"));
+            }
+
+        }
+        RecyclerView rec = findViewById(R.id.list);
+        rec.setHasFixedSize(true);
+        rec.setLayoutManager(new LinearLayoutManager(this));
+        SocketAdapter2 adapter = new SocketAdapter2(list);
+        rec.setAdapter(adapter);
+        WorkManager workManager = WorkManager.getInstance();
+        FooWorker f = new FooWorker("sdf");
+        assert workManager != null;
+        workManager.enqueue(new OneTimeWorkRequest.Builder(FooWorker.class).build());
 
         gestureDetector = initGestureDetector();
 
