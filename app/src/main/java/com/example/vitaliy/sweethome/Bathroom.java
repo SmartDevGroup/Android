@@ -33,15 +33,7 @@ public class Bathroom extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         ArrayList<Socket> list = new ArrayList<>();
-        int count  = 10;
-        for (int i =0;i<= count;i++){
-            if (i<count/2){
-                list.add(new Socket("Enable",""+i,"Socket"));
-            } else{
-                list.add(new Socket("Disable",""+i,"Socket"));
-            }
 
-        }
         RecyclerView rec = findViewById(R.id.list);
         rec.setHasFixedSize(true);
         rec.setLayoutManager(new LinearLayoutManager(this));
